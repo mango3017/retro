@@ -4,7 +4,8 @@
 
 void main() {
     int num1, num2,sum;
-i love     
+i hate u
+  
     printf("Enter the first number: ");
     scanf("%d", &num1);
     
